@@ -1,0 +1,41 @@
+export const lightTheme = {
+  colors: {
+    background: '#f6f8fb',
+    surface: '#ffffff',
+    surfaceElevated: '#ffffff',
+    text: '#4a4a4a',
+    mutedText: '#8f99a8',
+    accent: '#1ea8f2',
+    accentSecondary: '#72d6ff',
+    border: '#e8eef5',
+    success: '#22c55e',
+    warning: '#f5b342',
+    danger: '#f26d6d',
+    orb: '#1ea8f2',
+    orbGlow: 'rgba(30, 168, 242, 0.08)',
+    softBlue: '#eef8ff',
+    softGreen: '#eefcf3',
+    shadow: 'rgba(36, 73, 122, 0.12)',
+  },
+};
+
+export const darkTheme = {
+  colors: {
+    background: '#12161c',
+    surface: '#1b222b',
+    surfaceElevated: '#232d38',
+    text: '#edf2f7',
+    mutedText: '#9ba8b8',
+    accent: '#4ab8ff',
+    accentSecondary: '#83d9ff',
+    border: '#2b3542',
+    success: '#22c55e',
+    warning: '#f5b342',
+    danger: '#f26d6d',
+    orb: '#279df2',
+    orbGlow: 'rgba(39, 157, 242, 0.18)',
+    softBlue: '#182633',
+    softGreen: '#152820',
+    shadow: 'rgba(0, 0, 0, 0.28)',
+  },
+};
